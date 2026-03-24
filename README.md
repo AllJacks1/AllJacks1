@@ -1,10 +1,3 @@
-<div align="center">
-  
-  <!-- Animated Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B3A9F,50:3B4DB8,100:14B8A6&height=200&section=header&text=Karl%20Christian%20Tan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Support%20Specialist%20%7C%20Infrastructure%20%26%20Security&descSize=18&descAlignY=55" width="100%" />
-  
-</div>
-
 <!-- Introduction with Typing Effect -->
 <div align="center">
   
