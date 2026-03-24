@@ -53,9 +53,9 @@ Dynamic **IT Support Specialist** with hands-on experience in streamlining payme
     </td>
     <td width="40%" align="center" valign="middle">
       
-<img src="https://github-readme-stats.vercel.app/api?username=AllJacks1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2B3A9F&icon_color=14B8A6&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AllJacks1&theme=tokyonight&hide_border=true&background=0d1117&stroke=2B3A9F&ring=14B8A6&fire=F59E0B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2B3A9F&sideLabels=c9d1d9" width="100%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AllJacks1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2B3A9F&icon_color=14B8A6&text_color=c9d1d9" width="100%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AllJacks1&theme=tokyonight&hide_border=true&background=0d1117&stroke=2B3A9F&ring=14B8A6&fire=F59E0B&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=2B3A9F&sideLabels=c9d1d9" width="100%" alt="GitHub Streak" />
 
     </td>
   </tr>
